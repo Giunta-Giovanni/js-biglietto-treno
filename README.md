@@ -25,11 +25,11 @@ Il programma dovrà chiedere all’utente il numero di chilometri che vuole perc
     // mostro il prezzo della tratta
 
 // se l'eta del passeggero è minore di 18 applicare uno sconto del 20%
-    // (moltiplico il prezzo della tratta a 0,20 e il risultato) e lo sottraggo al prezzo tratta
+    // moltiplico il prezzo della tratta * 0.80
     // mostro il risultato del prezzo tratta minori
 
 // altrimenti se l'eta del passeggero è maggiore di 65 applicare uno sconto del 40%
-    // (moltiplico il prezzo della tratta a 0,40 ) e lo sottraggo al prezzo tratta
+    // moltiplico il prezzo della tratta * 0.60
     // mostro il risultato del prezzo tratta senior
 
 // altrimenti prezzo standard
