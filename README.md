@@ -23,6 +23,7 @@ Il programma dovrà chiedere all’utente il numero di chilometri che vuole perc
 // Calcolare il prezzo del biglietto in base ai km (0.21 € al km)
     // moltiplico i chilometri inseriti dall'utente con il prezzo al km
     // mostro il prezzo della tratta
+    // genero il messaggio di sconto o meno
 
 // se l'eta del passeggero è minore di 18 applicare uno sconto del 20%
     // moltiplico il prezzo della tratta * 0.80
@@ -37,4 +38,4 @@ Il programma dovrà chiedere all’utente il numero di chilometri che vuole perc
 
 
 // output
-// mostriamo all'utente quuanto deve pagare considerando i centesimi di euro
+// mostriamo all'utente quanto deve pagare considerando i centesimi di euro
